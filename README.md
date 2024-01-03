@@ -1,16 +1,27 @@
-### Hi there 👋
+### Ana Maria Andrade Cardoso :computer::rocket:
+<h3>Sobre mim:</h3>
 
-<!--
-**AnaMaria-16/AnaMaria-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá é um prazer ter você aqui! 
+<br>
+Tenho 22 anos, sou programadora Back And, iniciei na área de programação há dois meses . A cada dia, mergulho mais profundamente nesse mundo incrível, cheio de desafios e descobertas e 
+me apaixono cada vez mais. 
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Localização: :round_pushpin: :house:</h3>
+
+ Queimadas, Paraíba.
+
+<h3>Tecnologias que aprendi até aqui:</h3>
+<li>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+</li>
+<li>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</li>
+
+<h3> Contatos:</h3>
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt"logo-gmail"><a href="anamariaandrade706@gmail.com" target="_blank"></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"><a href="https://www.instagram.com/ana_mariandrade/" target="_blank"></a>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-gitHub"><a href="https://github.com/AnaMaria-16" target="-blank"></a>
+
