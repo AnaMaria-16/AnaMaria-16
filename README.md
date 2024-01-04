@@ -20,7 +20,7 @@ me apaixono cada vez mais.
 <h3>Contatos</h3>
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"> anamariaandrade706@gmail.com
 
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"></a>
+- <a href="https://www.instagram.com/ana_mariandrade/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"></a>
 <br>
 - <a href="https://github.com/AnaMaria-16" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-gitHub"></a>
 
