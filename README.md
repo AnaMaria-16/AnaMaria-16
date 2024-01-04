@@ -19,7 +19,8 @@ me apaixono cada vez mais.
 <li>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </li>
-<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt"logo-gmail">: anamariaandrade706@gmail.com
+<br>
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt"logo-gmail" : anamariaandrade706@gmail.com>
  <br>
 <a href="https://www.instagram.com/ana_mariandrade/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"></a>
 <br>
